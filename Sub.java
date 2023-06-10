@@ -6,6 +6,7 @@ public enum Sub
 	String age;
 	String course;
     String name;
+	String numbers;
 	private Sub(String age,String course)
 	{
 		String name;
